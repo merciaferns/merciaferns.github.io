@@ -57,7 +57,7 @@
         <!-- HOME PAGE (Updated Content) -->
         <div id="home" class="page-content space-y-8">
             <div class="bg-gothic-gray p-6 md:p-10 rounded-xl shadow-2xl text-center">
-                <h2 class="text-5xl font-extrabold mb-4 text-white">Welcome. I Am Mercia</h2>
+                <h2 class="text-5xl font-extrabold mb-4 text-white">Welcome. I Am Mercia.</h2>
                 <h3 class="text-2xl font-semibold mb-6 text-vampire-red">Developer. Designer. Dreamer.</h3>
                 <p class="text-lg text-gray-300 mb-8 max-w-3xl mx-auto">
                     Welcome to my personal archive. This space serves as a portfolio documenting my journey through code, design, and complex problem-solving. Explore the dark elegance of my work and see how I bring ideas to life.
@@ -219,7 +219,7 @@
                     <!-- Email -->
                     <div class="flex items-center space-x-4 p-3 bg-gray-800 rounded-lg shadow-inner border border-gray-700">
                         <i class="fas fa-envelope text-vampire-red text-2xl w-8 text-center"></i>
-                        <span class="text-gray-300 truncate">merciaferns2009@gmail.com</span>
+                        <span class="text-gray-300">mercia2009@gmail.com</span>
                     </div>
                     <!-- LinkedIn -->
                     <div class="flex items-center space-x-4 p-3 bg-gray-800 rounded-lg shadow-inner border border-gray-700">
